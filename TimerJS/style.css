@@ -1,0 +1,60 @@
+#timerTXT{
+    font-size: 36px;
+    margin-left: 180px;
+    color: #ffffff;
+}
+
+#timerDisplay{
+    margin: 15px;
+    margin-left: 10px;
+    color: #6d5672;
+}
+
+.timer-background{
+    background-color: rgb(232, 180, 236);
+    width: 500px;
+	height: 380px;
+    margin-left: 10px;
+
+}
+
+.timer-stats label{
+    font-size: 26px;
+    color: #6d5672;
+}
+.timer-stats input{
+    font-size: 16px;
+    margin-right: 10px;
+    background-color: rgb(199, 176, 201);
+    border:1px solid #000000;
+	border-radius: 5px;
+    margin-left: 25px;
+    color: #ffffff;
+}
+
+.btn{
+    width: 80px;
+	height: 80px;
+	border:#57504f;
+	border-radius: 5px;
+	background-color: #a8389f;
+	color: #ffffff;
+	font-size: 24px;
+	padding: 5px;
+	margin: 10px;
+	cursor: pointer;
+}
+
+.container {
+    display: flex;
+    margin-left: 10px;
+}
+  
+.container label {
+    flex: 1;
+    
+}
+  
+.container input {
+    flex: 1;
+}
